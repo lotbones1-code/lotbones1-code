@@ -13,9 +13,9 @@ For agencies and SMB teams with one costly manual workflow: I map the contract, 
 
 [**View the full sprint scope and pricing →**](https://lotbones1-code.github.io/meridian-ai-labs/)
 
-[Open the scoped intake](https://github.com/lotbones1-code/meridian-ai-labs/issues/new?template=automation-sprint.yml) · [Inspect the reference implementations](https://github.com/lotbones1-code/meridian-ai-demos)
+[Open the private, no-login intake](https://lotbones1-code.github.io/meridian-ai-labs/#intake) · [Public GitHub fallback](https://github.com/lotbones1-code/meridian-ai-labs/issues/new?template=automation-sprint.yml) · [Inspect the reference implementations](https://github.com/lotbones1-code/meridian-ai-demos)
 
-> The intake is public. Share systems, workflow, and desired outcome—not credentials, private customer data, or secrets.
+> Share systems, workflow, and desired outcome—not credentials, private customer data, or secrets.
 
 ## Other work
 
