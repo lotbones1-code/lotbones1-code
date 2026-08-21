@@ -11,9 +11,9 @@ For agencies and SMB teams with one costly manual workflow: I map the contract, 
 - **Sprint price:** $2,500
 - **Lower-risk starting point:** $250 architecture + risk audit, credited toward the same sprint if it proceeds
 
-[**View the full sprint scope and pricing →**](https://lotbones1-code.github.io/meridian-ai-labs/)
+[**View the full sprint scope and pricing →**](https://lotbones1-code.github.io/meridian-ai-labs/?utm_source=github&utm_medium=profile&utm_campaign=meridian_sprint&utm_content=scope_cta)
 
-[Open the private, no-login intake](https://lotbones1-code.github.io/meridian-ai-labs/#intake) · [Public GitHub fallback](https://github.com/lotbones1-code/meridian-ai-labs/issues/new?template=automation-sprint.yml) · [Inspect the reference implementations](https://github.com/lotbones1-code/meridian-ai-demos)
+[Open the private, no-login intake](https://lotbones1-code.github.io/meridian-ai-labs/?utm_source=github&utm_medium=profile&utm_campaign=meridian_sprint&utm_content=intake_cta#intake) · [Public GitHub fallback](https://github.com/lotbones1-code/meridian-ai-labs/issues/new?template=automation-sprint.yml) · [Inspect the reference implementations](https://github.com/lotbones1-code/meridian-ai-demos)
 
 > Share systems, workflow, and desired outcome—not credentials, private customer data, or secrets.
 
