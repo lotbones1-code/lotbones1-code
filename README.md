@@ -16,7 +16,3 @@ For agencies and SMB teams with one costly manual workflow: I map the contract, 
 [Open the private, no-login intake](https://lotbones1-code.github.io/meridian-ai-labs/?utm_source=github&utm_medium=profile&utm_campaign=meridian_sprint&utm_content=intake_cta#intake) · [Public GitHub fallback](https://github.com/lotbones1-code/meridian-ai-labs/issues/new?template=automation-sprint.yml) · [Inspect the reference implementations](https://github.com/lotbones1-code/meridian-ai-demos)
 
 > Share systems, workflow, and desired outcome—not credentials, private customer data, or secrets.
-
-## Other work
-
-I also operate **[VoltVault](https://shopvoltvault.com/)**, an online store for new and open-box electronics with direct crypto checkout.
